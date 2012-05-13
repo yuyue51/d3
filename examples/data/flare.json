@@ -1,11 +1,11 @@
 {
- "name": "flare",
+ "name": "flare中文3724",
  "children": [
   {
-   "name": "analytics",
+   "name": "analytics中文3724",
    "children": [
     {
-     "name": "cluster",
+     "name": "cluster中文3724",
      "children": [
       {"name": "AgglomerativeCluster", "size": 3938},
       {"name": "CommunityStructure", "size": 3812},
